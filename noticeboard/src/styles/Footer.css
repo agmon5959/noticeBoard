@@ -1,0 +1,9 @@
+.main-footer {
+    background-color:#d0ebff;
+    width: 60%;
+    height: 10vh;
+    border-radius: 0px 0px 15px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

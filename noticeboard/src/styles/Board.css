@@ -1,0 +1,16 @@
+.main-board {
+    background-color: white;
+    width: 60%;
+    height: 50vh;
+    overflow: auto;
+}
+
+.HeroWrapper{
+    background-color: #e7f5ff;
+    height: 100px;
+    line-height: 100px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
